@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\ami9s\OneDrive\Desktop\DSA\.metadata\.plugins\org.eclipse.jdt.core
+1074523972.index
+791519502.index
+1865797976.index

@@ -1,0 +1,11 @@
+package com.bs1;
+
+public class DesBinarySearch {
+
+	public static void main(String[] args) {
+		int[] array = {20,17,15,14,13,12,10,7,8,4};
+		System.out.println(array);
+
+	}
+
+}
